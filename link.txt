@@ -1,2 +1,0 @@
-http://182.234.93.39:8080/FirstServlet/hello555.view?name=Guest
-http://abstract-sunset-621.appspot.com/?guestbook_name=default_guestbook
